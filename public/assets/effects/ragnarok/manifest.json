@@ -1,0 +1,1457 @@
+{
+  "key": "ragnarok-effects",
+  "image": "assets/effects/ragnarok/effects.png",
+  "atlas": "assets/effects/ragnarok/effects.json",
+  "license": "Commercial game artwork; no open license asserted",
+  "rights": "Ragnarok Online artwork, Gravity and respective rights holders; user-supplied copies from The Spriters Resource",
+  "sources": [
+    {
+      "id": "127433",
+      "image": "https://www.spriters-resource.com/media/asset_icons/124/127433.png?updated=1755479801",
+      "section": "Effects",
+      "title": "Shadow Slash",
+      "url": "https://www.spriters-resource.com/pc_computer/ragnarokonline/asset/127433/",
+      "download_url": "https://www.spriters-resource.com/media/assets/124/127433.png?updated=1755479801",
+      "file": "Effects/Shadow Slash [127433].png",
+      "bytes": 862,
+      "width": 406,
+      "height": 75,
+      "sha256": "4f2988fbcf0c890b2d33844efd73e398414db0046e149a832b31a293687209a6",
+      "copiedFile": "source/Shadow Slash [127433].png",
+      "originalMode": "P",
+      "transparency": "native palette alpha"
+    },
+    {
+      "id": "127603",
+      "image": "https://www.spriters-resource.com/media/asset_icons/124/127603.png?updated=1755479806",
+      "section": "Effects",
+      "title": "Various Effects",
+      "url": "https://www.spriters-resource.com/pc_computer/ragnarokonline/asset/127603/",
+      "download_url": "https://www.spriters-resource.com/media/assets/124/127603.png?updated=1755479806",
+      "file": "Effects/Various Effects [127603].png",
+      "bytes": 558270,
+      "width": 948,
+      "height": 1867,
+      "sha256": "54616f4213d39d5d79a27ea5ba710b95901c66103c6962c2c8e5d02a31667169",
+      "copiedFile": "source/Various Effects [127603].png",
+      "originalMode": "RGB",
+      "transparency": "black-to-alpha additive conversion"
+    },
+    {
+      "id": "127593",
+      "image": "https://www.spriters-resource.com/media/asset_icons/124/127593.png?updated=1755479805",
+      "section": "Effects",
+      "title": "Energy",
+      "url": "https://www.spriters-resource.com/pc_computer/ragnarokonline/asset/127593/",
+      "download_url": "https://www.spriters-resource.com/media/assets/124/127593.png?updated=1755479805",
+      "file": "Effects/Energy [127593].png",
+      "bytes": 236251,
+      "width": 1633,
+      "height": 1246,
+      "sha256": "f3e1979e398fde07b134c2aa6b6a248ab544076496aa246e3fef6fde9015281f",
+      "copiedFile": "source/Energy [127593].png",
+      "originalMode": "RGB",
+      "transparency": "black-to-alpha additive conversion"
+    }
+  ],
+  "animations": {
+    "slash-impact": [
+      "slash-impact_000.png",
+      "slash-impact_001.png",
+      "slash-impact_002.png",
+      "slash-impact_003.png"
+    ],
+    "fire-projectile": [
+      "fire-projectile_000.png",
+      "fire-projectile_001.png",
+      "fire-projectile_002.png",
+      "fire-projectile_003.png",
+      "fire-projectile_004.png",
+      "fire-projectile_005.png"
+    ],
+    "fire-impact": [
+      "fire-impact_000.png",
+      "fire-impact_001.png",
+      "fire-impact_002.png",
+      "fire-impact_003.png",
+      "fire-impact_004.png",
+      "fire-impact_005.png",
+      "fire-impact_006.png",
+      "fire-impact_007.png",
+      "fire-impact_008.png"
+    ],
+    "lightning-impact": [
+      "lightning-impact_000.png",
+      "lightning-impact_001.png",
+      "lightning-impact_002.png",
+      "lightning-impact_003.png",
+      "lightning-impact_004.png"
+    ],
+    "ice-impact": [
+      "ice-impact_000.png",
+      "ice-impact_001.png",
+      "ice-impact_002.png",
+      "ice-impact_003.png",
+      "ice-impact_004.png",
+      "ice-impact_005.png",
+      "ice-impact_006.png",
+      "ice-impact_007.png"
+    ],
+    "charge": [
+      "charge_000.png",
+      "charge_001.png",
+      "charge_002.png",
+      "charge_003.png",
+      "charge_004.png",
+      "charge_005.png",
+      "charge_006.png",
+      "charge_007.png",
+      "charge_008.png",
+      "charge_009.png"
+    ],
+    "heal": [
+      "heal_000.png",
+      "heal_001.png",
+      "heal_002.png",
+      "heal_003.png",
+      "heal_004.png",
+      "heal_005.png",
+      "heal_006.png",
+      "heal_007.png",
+      "heal_008.png",
+      "heal_009.png"
+    ]
+  },
+  "settings": {
+    "slash-impact": {
+      "frameRate": 24,
+      "repeat": 0,
+      "width": 112,
+      "height": 80,
+      "origin": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "fire-projectile": {
+      "frameRate": 20,
+      "repeat": 0,
+      "width": 80,
+      "height": 96,
+      "origin": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "fire-impact": {
+      "frameRate": 24,
+      "repeat": 0,
+      "width": 100,
+      "height": 150,
+      "origin": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "lightning-impact": {
+      "frameRate": 20,
+      "repeat": 0,
+      "width": 160,
+      "height": 288,
+      "origin": {
+        "x": 0.5,
+        "y": 1
+      }
+    },
+    "ice-impact": {
+      "frameRate": 24,
+      "repeat": 0,
+      "width": 84,
+      "height": 112,
+      "origin": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "charge": {
+      "frameRate": 24,
+      "repeat": 0,
+      "width": 168,
+      "height": 252,
+      "origin": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "heal": {
+      "frameRate": 20,
+      "repeat": 0,
+      "width": 168,
+      "height": 252,
+      "origin": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    }
+  },
+  "frames": [
+    {
+      "name": "slash-impact_000.png",
+      "source": "source/Shadow Slash [127433].png",
+      "rectangle": [
+        220,
+        0,
+        290,
+        75
+      ],
+      "visibleRectangle": [
+        241,
+        34,
+        258,
+        46
+      ],
+      "canvas": [
+        112,
+        80
+      ],
+      "offset": [
+        47,
+        34
+      ]
+    },
+    {
+      "name": "slash-impact_001.png",
+      "source": "source/Shadow Slash [127433].png",
+      "rectangle": [
+        115,
+        0,
+        195,
+        75
+      ],
+      "visibleRectangle": [
+        124,
+        32,
+        175,
+        48
+      ],
+      "canvas": [
+        112,
+        80
+      ],
+      "offset": [
+        30,
+        32
+      ]
+    },
+    {
+      "name": "slash-impact_002.png",
+      "source": "source/Shadow Slash [127433].png",
+      "rectangle": [
+        0,
+        0,
+        110,
+        75
+      ],
+      "visibleRectangle": [
+        6,
+        16,
+        93,
+        64
+      ],
+      "canvas": [
+        112,
+        80
+      ],
+      "offset": [
+        12,
+        16
+      ]
+    },
+    {
+      "name": "slash-impact_003.png",
+      "source": "source/Shadow Slash [127433].png",
+      "rectangle": [
+        300,
+        0,
+        406,
+        75
+      ],
+      "visibleRectangle": [
+        306,
+        16,
+        393,
+        64
+      ],
+      "canvas": [
+        112,
+        80
+      ],
+      "offset": [
+        12,
+        16
+      ]
+    },
+    {
+      "name": "fire-projectile_000.png",
+      "source": "source/Various Effects [127603].png",
+      "rectangle": [
+        0,
+        0,
+        74,
+        90
+      ],
+      "visibleRectangle": [
+        15,
+        15,
+        35,
+        69
+      ],
+      "canvas": [
+        80,
+        96
+      ],
+      "offset": [
+        30,
+        21
+      ]
+    },
+    {
+      "name": "fire-projectile_001.png",
+      "source": "source/Various Effects [127603].png",
+      "rectangle": [
+        74,
+        0,
+        148,
+        90
+      ],
+      "visibleRectangle": [
+        89,
+        14,
+        109,
+        68
+      ],
+      "canvas": [
+        80,
+        96
+      ],
+      "offset": [
+        30,
+        21
+      ]
+    },
+    {
+      "name": "fire-projectile_002.png",
+      "source": "source/Various Effects [127603].png",
+      "rectangle": [
+        148,
+        0,
+        222,
+        90
+      ],
+      "visibleRectangle": [
+        163,
+        14,
+        183,
+        69
+      ],
+      "canvas": [
+        80,
+        96
+      ],
+      "offset": [
+        30,
+        20
+      ]
+    },
+    {
+      "name": "fire-projectile_003.png",
+      "source": "source/Various Effects [127603].png",
+      "rectangle": [
+        222,
+        0,
+        296,
+        90
+      ],
+      "visibleRectangle": [
+        237,
+        14,
+        257,
+        69
+      ],
+      "canvas": [
+        80,
+        96
+      ],
+      "offset": [
+        30,
+        20
+      ]
+    },
+    {
+      "name": "fire-projectile_004.png",
+      "source": "source/Various Effects [127603].png",
+      "rectangle": [
+        296,
+        0,
+        370,
+        90
+      ],
+      "visibleRectangle": [
+        311,
+        14,
+        331,
+        69
+      ],
+      "canvas": [
+        80,
+        96
+      ],
+      "offset": [
+        30,
+        20
+      ]
+    },
+    {
+      "name": "fire-projectile_005.png",
+      "source": "source/Various Effects [127603].png",
+      "rectangle": [
+        370,
+        0,
+        444,
+        90
+      ],
+      "visibleRectangle": [
+        385,
+        14,
+        405,
+        69
+      ],
+      "canvas": [
+        80,
+        96
+      ],
+      "offset": [
+        30,
+        20
+      ]
+    },
+    {
+      "name": "fire-impact_000.png",
+      "source": "source/Various Effects [127603].png",
+      "rectangle": [
+        0,
+        330,
+        98,
+        475
+      ],
+      "visibleRectangle": [
+        31,
+        354,
+        76,
+        462
+      ],
+      "canvas": [
+        100,
+        150
+      ],
+      "offset": [
+        27,
+        21
+      ]
+    },
+    {
+      "name": "fire-impact_001.png",
+      "source": "source/Various Effects [127603].png",
+      "rectangle": [
+        98,
+        330,
+        180,
+        475
+      ],
+      "visibleRectangle": [
+        123,
+        352,
+        168,
+        460
+      ],
+      "canvas": [
+        100,
+        150
+      ],
+      "offset": [
+        27,
+        21
+      ]
+    },
+    {
+      "name": "fire-impact_002.png",
+      "source": "source/Various Effects [127603].png",
+      "rectangle": [
+        180,
+        330,
+        265,
+        475
+      ],
+      "visibleRectangle": [
+        208,
+        348,
+        253,
+        462
+      ],
+      "canvas": [
+        100,
+        150
+      ],
+      "offset": [
+        27,
+        18
+      ]
+    },
+    {
+      "name": "fire-impact_003.png",
+      "source": "source/Various Effects [127603].png",
+      "rectangle": [
+        265,
+        330,
+        347,
+        475
+      ],
+      "visibleRectangle": [
+        289,
+        348,
+        333,
+        457
+      ],
+      "canvas": [
+        100,
+        150
+      ],
+      "offset": [
+        28,
+        20
+      ]
+    },
+    {
+      "name": "fire-impact_004.png",
+      "source": "source/Various Effects [127603].png",
+      "rectangle": [
+        347,
+        330,
+        432,
+        475
+      ],
+      "visibleRectangle": [
+        371,
+        348,
+        412,
+        463
+      ],
+      "canvas": [
+        100,
+        150
+      ],
+      "offset": [
+        29,
+        17
+      ]
+    },
+    {
+      "name": "fire-impact_005.png",
+      "source": "source/Various Effects [127603].png",
+      "rectangle": [
+        432,
+        330,
+        515,
+        475
+      ],
+      "visibleRectangle": [
+        457,
+        346,
+        498,
+        455
+      ],
+      "canvas": [
+        100,
+        150
+      ],
+      "offset": [
+        29,
+        20
+      ]
+    },
+    {
+      "name": "fire-impact_006.png",
+      "source": "source/Various Effects [127603].png",
+      "rectangle": [
+        515,
+        330,
+        599,
+        475
+      ],
+      "visibleRectangle": [
+        538,
+        342,
+        579,
+        454
+      ],
+      "canvas": [
+        100,
+        150
+      ],
+      "offset": [
+        29,
+        19
+      ]
+    },
+    {
+      "name": "fire-impact_007.png",
+      "source": "source/Various Effects [127603].png",
+      "rectangle": [
+        599,
+        330,
+        681,
+        475
+      ],
+      "visibleRectangle": [
+        620,
+        343,
+        662,
+        449
+      ],
+      "canvas": [
+        100,
+        150
+      ],
+      "offset": [
+        29,
+        22
+      ]
+    },
+    {
+      "name": "fire-impact_008.png",
+      "source": "source/Various Effects [127603].png",
+      "rectangle": [
+        681,
+        330,
+        766,
+        475
+      ],
+      "visibleRectangle": [
+        703,
+        343,
+        745,
+        456
+      ],
+      "canvas": [
+        100,
+        150
+      ],
+      "offset": [
+        29,
+        18
+      ]
+    },
+    {
+      "name": "lightning-impact_000.png",
+      "source": "source/Various Effects [127603].png",
+      "rectangle": [
+        0,
+        930,
+        145,
+        1210
+      ],
+      "visibleRectangle": [
+        37,
+        946,
+        119,
+        1198
+      ],
+      "canvas": [
+        160,
+        288
+      ],
+      "offset": [
+        39,
+        32
+      ]
+    },
+    {
+      "name": "lightning-impact_001.png",
+      "source": "source/Various Effects [127603].png",
+      "rectangle": [
+        145,
+        930,
+        290,
+        1210
+      ],
+      "visibleRectangle": [
+        161,
+        940,
+        258,
+        1196
+      ],
+      "canvas": [
+        160,
+        288
+      ],
+      "offset": [
+        31,
+        28
+      ]
+    },
+    {
+      "name": "lightning-impact_002.png",
+      "source": "source/Various Effects [127603].png",
+      "rectangle": [
+        290,
+        930,
+        430,
+        1210
+      ],
+      "visibleRectangle": [
+        328,
+        944,
+        396,
+        1186
+      ],
+      "canvas": [
+        160,
+        288
+      ],
+      "offset": [
+        46,
+        42
+      ]
+    },
+    {
+      "name": "lightning-impact_003.png",
+      "source": "source/Various Effects [127603].png",
+      "rectangle": [
+        430,
+        930,
+        585,
+        1210
+      ],
+      "visibleRectangle": [
+        473,
+        938,
+        565,
+        1184
+      ],
+      "canvas": [
+        160,
+        288
+      ],
+      "offset": [
+        34,
+        38
+      ]
+    },
+    {
+      "name": "lightning-impact_004.png",
+      "source": "source/Various Effects [127603].png",
+      "rectangle": [
+        585,
+        930,
+        745,
+        1210
+      ],
+      "visibleRectangle": [
+        648,
+        938,
+        724,
+        1179
+      ],
+      "canvas": [
+        160,
+        288
+      ],
+      "offset": [
+        42,
+        43
+      ]
+    },
+    {
+      "name": "ice-impact_000.png",
+      "source": "source/Various Effects [127603].png",
+      "rectangle": [
+        171,
+        1350,
+        227,
+        1455
+      ],
+      "visibleRectangle": [
+        185,
+        1371,
+        211,
+        1428
+      ],
+      "canvas": [
+        84,
+        112
+      ],
+      "offset": [
+        29,
+        27
+      ]
+    },
+    {
+      "name": "ice-impact_001.png",
+      "source": "source/Various Effects [127603].png",
+      "rectangle": [
+        227,
+        1350,
+        284,
+        1455
+      ],
+      "visibleRectangle": [
+        243,
+        1371,
+        269,
+        1428
+      ],
+      "canvas": [
+        84,
+        112
+      ],
+      "offset": [
+        29,
+        27
+      ]
+    },
+    {
+      "name": "ice-impact_002.png",
+      "source": "source/Various Effects [127603].png",
+      "rectangle": [
+        284,
+        1350,
+        342,
+        1455
+      ],
+      "visibleRectangle": [
+        301,
+        1371,
+        327,
+        1428
+      ],
+      "canvas": [
+        84,
+        112
+      ],
+      "offset": [
+        29,
+        27
+      ]
+    },
+    {
+      "name": "ice-impact_003.png",
+      "source": "source/Various Effects [127603].png",
+      "rectangle": [
+        342,
+        1350,
+        400,
+        1455
+      ],
+      "visibleRectangle": [
+        359,
+        1371,
+        385,
+        1428
+      ],
+      "canvas": [
+        84,
+        112
+      ],
+      "offset": [
+        29,
+        27
+      ]
+    },
+    {
+      "name": "ice-impact_004.png",
+      "source": "source/Various Effects [127603].png",
+      "rectangle": [
+        400,
+        1350,
+        471,
+        1455
+      ],
+      "visibleRectangle": [
+        406,
+        1370,
+        466,
+        1430
+      ],
+      "canvas": [
+        84,
+        112
+      ],
+      "offset": [
+        12,
+        26
+      ]
+    },
+    {
+      "name": "ice-impact_005.png",
+      "source": "source/Various Effects [127603].png",
+      "rectangle": [
+        471,
+        1350,
+        546,
+        1455
+      ],
+      "visibleRectangle": [
+        476,
+        1370,
+        536,
+        1430
+      ],
+      "canvas": [
+        84,
+        112
+      ],
+      "offset": [
+        12,
+        26
+      ]
+    },
+    {
+      "name": "ice-impact_006.png",
+      "source": "source/Various Effects [127603].png",
+      "rectangle": [
+        546,
+        1350,
+        620,
+        1455
+      ],
+      "visibleRectangle": [
+        554,
+        1371,
+        614,
+        1431
+      ],
+      "canvas": [
+        84,
+        112
+      ],
+      "offset": [
+        12,
+        26
+      ]
+    },
+    {
+      "name": "ice-impact_007.png",
+      "source": "source/Various Effects [127603].png",
+      "rectangle": [
+        620,
+        1350,
+        692,
+        1455
+      ],
+      "visibleRectangle": [
+        624,
+        1371,
+        684,
+        1431
+      ],
+      "canvas": [
+        84,
+        112
+      ],
+      "offset": [
+        12,
+        26
+      ]
+    },
+    {
+      "name": "charge_000.png",
+      "source": "source/Energy [127593].png",
+      "rectangle": [
+        0,
+        249,
+        163,
+        498
+      ],
+      "visibleRectangle": [
+        19,
+        284,
+        111,
+        463
+      ],
+      "canvas": [
+        168,
+        252
+      ],
+      "offset": [
+        38,
+        36
+      ]
+    },
+    {
+      "name": "charge_001.png",
+      "source": "source/Energy [127593].png",
+      "rectangle": [
+        163,
+        249,
+        327,
+        498
+      ],
+      "visibleRectangle": [
+        184,
+        324,
+        276,
+        453
+      ],
+      "canvas": [
+        168,
+        252
+      ],
+      "offset": [
+        38,
+        61
+      ]
+    },
+    {
+      "name": "charge_002.png",
+      "source": "source/Energy [127593].png",
+      "rectangle": [
+        327,
+        249,
+        490,
+        498
+      ],
+      "visibleRectangle": [
+        349,
+        309,
+        441,
+        466
+      ],
+      "canvas": [
+        168,
+        252
+      ],
+      "offset": [
+        38,
+        47
+      ]
+    },
+    {
+      "name": "charge_003.png",
+      "source": "source/Energy [127593].png",
+      "rectangle": [
+        490,
+        249,
+        653,
+        498
+      ],
+      "visibleRectangle": [
+        514,
+        304,
+        606,
+        461
+      ],
+      "canvas": [
+        168,
+        252
+      ],
+      "offset": [
+        38,
+        47
+      ]
+    },
+    {
+      "name": "charge_004.png",
+      "source": "source/Energy [127593].png",
+      "rectangle": [
+        653,
+        249,
+        816,
+        498
+      ],
+      "visibleRectangle": [
+        679,
+        319,
+        771,
+        473
+      ],
+      "canvas": [
+        168,
+        252
+      ],
+      "offset": [
+        38,
+        49
+      ]
+    },
+    {
+      "name": "charge_005.png",
+      "source": "source/Energy [127593].png",
+      "rectangle": [
+        816,
+        249,
+        980,
+        498
+      ],
+      "visibleRectangle": [
+        844,
+        299,
+        936,
+        463
+      ],
+      "canvas": [
+        168,
+        252
+      ],
+      "offset": [
+        38,
+        44
+      ]
+    },
+    {
+      "name": "charge_006.png",
+      "source": "source/Energy [127593].png",
+      "rectangle": [
+        980,
+        249,
+        1143,
+        498
+      ],
+      "visibleRectangle": [
+        1009,
+        294,
+        1101,
+        473
+      ],
+      "canvas": [
+        168,
+        252
+      ],
+      "offset": [
+        38,
+        36
+      ]
+    },
+    {
+      "name": "charge_007.png",
+      "source": "source/Energy [127593].png",
+      "rectangle": [
+        1143,
+        249,
+        1306,
+        498
+      ],
+      "visibleRectangle": [
+        1170,
+        289,
+        1262,
+        473
+      ],
+      "canvas": [
+        168,
+        252
+      ],
+      "offset": [
+        38,
+        34
+      ]
+    },
+    {
+      "name": "charge_008.png",
+      "source": "source/Energy [127593].png",
+      "rectangle": [
+        1306,
+        249,
+        1470,
+        498
+      ],
+      "visibleRectangle": [
+        1335,
+        284,
+        1427,
+        462
+      ],
+      "canvas": [
+        168,
+        252
+      ],
+      "offset": [
+        38,
+        37
+      ]
+    },
+    {
+      "name": "charge_009.png",
+      "source": "source/Energy [127593].png",
+      "rectangle": [
+        1470,
+        249,
+        1633,
+        498
+      ],
+      "visibleRectangle": [
+        1500,
+        299,
+        1592,
+        468
+      ],
+      "canvas": [
+        168,
+        252
+      ],
+      "offset": [
+        38,
+        41
+      ]
+    },
+    {
+      "name": "heal_000.png",
+      "source": "source/Energy [127593].png",
+      "rectangle": [
+        0,
+        747,
+        163,
+        996
+      ],
+      "visibleRectangle": [
+        16,
+        793,
+        108,
+        972
+      ],
+      "canvas": [
+        168,
+        252
+      ],
+      "offset": [
+        38,
+        36
+      ]
+    },
+    {
+      "name": "heal_001.png",
+      "source": "source/Energy [127593].png",
+      "rectangle": [
+        163,
+        747,
+        327,
+        996
+      ],
+      "visibleRectangle": [
+        181,
+        833,
+        273,
+        962
+      ],
+      "canvas": [
+        168,
+        252
+      ],
+      "offset": [
+        38,
+        61
+      ]
+    },
+    {
+      "name": "heal_002.png",
+      "source": "source/Energy [127593].png",
+      "rectangle": [
+        327,
+        747,
+        490,
+        996
+      ],
+      "visibleRectangle": [
+        346,
+        818,
+        438,
+        975
+      ],
+      "canvas": [
+        168,
+        252
+      ],
+      "offset": [
+        38,
+        47
+      ]
+    },
+    {
+      "name": "heal_003.png",
+      "source": "source/Energy [127593].png",
+      "rectangle": [
+        490,
+        747,
+        653,
+        996
+      ],
+      "visibleRectangle": [
+        511,
+        813,
+        603,
+        970
+      ],
+      "canvas": [
+        168,
+        252
+      ],
+      "offset": [
+        38,
+        47
+      ]
+    },
+    {
+      "name": "heal_004.png",
+      "source": "source/Energy [127593].png",
+      "rectangle": [
+        653,
+        747,
+        816,
+        996
+      ],
+      "visibleRectangle": [
+        676,
+        828,
+        768,
+        982
+      ],
+      "canvas": [
+        168,
+        252
+      ],
+      "offset": [
+        38,
+        49
+      ]
+    },
+    {
+      "name": "heal_005.png",
+      "source": "source/Energy [127593].png",
+      "rectangle": [
+        816,
+        747,
+        980,
+        996
+      ],
+      "visibleRectangle": [
+        841,
+        808,
+        933,
+        972
+      ],
+      "canvas": [
+        168,
+        252
+      ],
+      "offset": [
+        38,
+        44
+      ]
+    },
+    {
+      "name": "heal_006.png",
+      "source": "source/Energy [127593].png",
+      "rectangle": [
+        980,
+        747,
+        1143,
+        996
+      ],
+      "visibleRectangle": [
+        1006,
+        803,
+        1098,
+        982
+      ],
+      "canvas": [
+        168,
+        252
+      ],
+      "offset": [
+        38,
+        36
+      ]
+    },
+    {
+      "name": "heal_007.png",
+      "source": "source/Energy [127593].png",
+      "rectangle": [
+        1143,
+        747,
+        1306,
+        996
+      ],
+      "visibleRectangle": [
+        1183,
+        787,
+        1275,
+        971
+      ],
+      "canvas": [
+        168,
+        252
+      ],
+      "offset": [
+        38,
+        34
+      ]
+    },
+    {
+      "name": "heal_008.png",
+      "source": "source/Energy [127593].png",
+      "rectangle": [
+        1306,
+        747,
+        1470,
+        996
+      ],
+      "visibleRectangle": [
+        1348,
+        782,
+        1440,
+        960
+      ],
+      "canvas": [
+        168,
+        252
+      ],
+      "offset": [
+        38,
+        37
+      ]
+    },
+    {
+      "name": "heal_009.png",
+      "source": "source/Energy [127593].png",
+      "rectangle": [
+        1470,
+        747,
+        1633,
+        996
+      ],
+      "visibleRectangle": [
+        1513,
+        797,
+        1605,
+        966
+      ],
+      "canvas": [
+        168,
+        252
+      ],
+      "offset": [
+        38,
+        41
+      ]
+    }
+  ],
+  "outputs": {
+    "effects.png": {
+      "sha256": "646e432e50b13d4dbb449700f4b6c3bba3b692b8569e34ebfd50a9a653ccc265",
+      "bytes": 301594
+    },
+    "effects.json": {
+      "sha256": "e4293489c6907cded67aff3a3fc38176ee1fdeabb8d441fa5438a1cac48a61d5",
+      "bytes": 19300
+    }
+  }
+}

@@ -1,0 +1,140 @@
+[
+  {
+    "local": "assets/environments/shimzar-background.jpg",
+    "source": "https://raw.githubusercontent.com/open-duelyst/duelyst/2843f2400854136598631288c2e8dfb8f5173de7/app/resources/maps/shimzar/background.jpg",
+    "bytes": 354978,
+    "sha256": "5fa741d46f68e21dececbfcb32fbd416ece55a499fcb4c9ccee7b411235acddb"
+  },
+  {
+    "local": "assets/environments/shimzar-midground.png",
+    "source": "https://raw.githubusercontent.com/open-duelyst/duelyst/2843f2400854136598631288c2e8dfb8f5173de7/app/resources/maps/shimzar/midground.png",
+    "bytes": 1135102,
+    "sha256": "e2af61b51fa8875dd5c6b4efd7c49d43c41f08af123973a42b7be5928800220b"
+  },
+  {
+    "local": "assets/environments/vanar-background.jpg",
+    "source": "https://raw.githubusercontent.com/open-duelyst/duelyst/2843f2400854136598631288c2e8dfb8f5173de7/app/resources/maps/vanar/background.jpg",
+    "bytes": 70621,
+    "sha256": "3d42ee384c90f558d5560fd514ec15ed07e6cd7ec776ab03fc281996f6ffa300"
+  },
+  {
+    "local": "assets/environments/vanar-midground.png",
+    "source": "https://raw.githubusercontent.com/open-duelyst/duelyst/2843f2400854136598631288c2e8dfb8f5173de7/app/resources/maps/vanar/midground.png",
+    "bytes": 596914,
+    "sha256": "6a181bb39911a601eaf497000c55c4fe76dae8f448db4172685a5f4e66dae398"
+  },
+  {
+    "local": "assets/environments/redrock-background.jpg",
+    "source": "https://raw.githubusercontent.com/open-duelyst/duelyst/2843f2400854136598631288c2e8dfb8f5173de7/app/resources/maps/redrock/background.jpg",
+    "bytes": 161803,
+    "sha256": "73c09ab1c7a7198380a443e8f9733f9b61ab8083002ff2d28b75908e241b762e"
+  },
+  {
+    "local": "assets/environments/redrock-midground.png",
+    "source": "https://raw.githubusercontent.com/open-duelyst/duelyst/2843f2400854136598631288c2e8dfb8f5173de7/app/resources/maps/redrock/midground.png",
+    "bytes": 613902,
+    "sha256": "8e8c4fb06b1bc9e244f167b8b873841fbb2b5011c4067b00c337f1609977c171"
+  },
+  {
+    "local": "assets/environments/abyssian-background.jpg",
+    "source": "https://raw.githubusercontent.com/open-duelyst/duelyst/2843f2400854136598631288c2e8dfb8f5173de7/app/resources/maps/abyssian/background.jpg",
+    "bytes": 103000,
+    "sha256": "704b03abbe3e4bb9d1e34dcb217f82872ea6d4aac38fbf6144d19ca4ac224e52"
+  },
+  {
+    "local": "assets/environments/abyssian-midground.png",
+    "source": "https://raw.githubusercontent.com/open-duelyst/duelyst/2843f2400854136598631288c2e8dfb8f5173de7/app/resources/maps/abyssian/midground.png",
+    "bytes": 563733,
+    "sha256": "f01bd1ae76a637a234b5bc438dc14ce88d6abb652e8f79f6cd3457283e40c876"
+  },
+  {
+    "local": "assets/actors/f1_general.png",
+    "source": "https://raw.githubusercontent.com/open-duelyst/duelyst/2843f2400854136598631288c2e8dfb8f5173de7/app/resources/units/f1_general.png",
+    "bytes": 37904,
+    "sha256": "c579d5a5d5d93d7fbdc4a944f6bd4a1af689b06418ec8350476cf128cb9ddf7c"
+  },
+  {
+    "local": "assets/actors/f1_general.plist",
+    "source": "https://raw.githubusercontent.com/open-duelyst/duelyst/2843f2400854136598631288c2e8dfb8f5173de7/app/resources/units/f1_general.plist",
+    "bytes": 33159,
+    "sha256": "c9fc39d8d7dec25ef09721fed8284bbf606a69d698d6b2982f33b51a0f054a10"
+  },
+  {
+    "local": "assets/actors/neutral_golemnature.png",
+    "source": "https://raw.githubusercontent.com/open-duelyst/duelyst/2843f2400854136598631288c2e8dfb8f5173de7/app/resources/units/neutral_golemnature.png",
+    "bytes": 15009,
+    "sha256": "46277ff3ca52fed0bfe26eb3345ba44dfe9a8fb16a5e9d24c08a64732c5e4add"
+  },
+  {
+    "local": "assets/actors/neutral_golemnature.plist",
+    "source": "https://raw.githubusercontent.com/open-duelyst/duelyst/2843f2400854136598631288c2e8dfb8f5173de7/app/resources/units/neutral_golemnature.plist",
+    "bytes": 18792,
+    "sha256": "05731010e6e4b20198aa2e0889429d758b14ea91da64198818316c0edbd968a3"
+  },
+  {
+    "local": "assets/actors/boss_cindera.png",
+    "source": "https://raw.githubusercontent.com/open-duelyst/duelyst/2843f2400854136598631288c2e8dfb8f5173de7/app/resources/units/boss_cindera.png",
+    "bytes": 123332,
+    "sha256": "d2c9d8f6c9bf38164c52618185020e1bd56ca6d8f43cc6381b85db8add3f1475"
+  },
+  {
+    "local": "assets/actors/boss_cindera.plist",
+    "source": "https://raw.githubusercontent.com/open-duelyst/duelyst/2843f2400854136598631288c2e8dfb8f5173de7/app/resources/units/boss_cindera.plist",
+    "bytes": 35764,
+    "sha256": "3e55a483ec74a5a6a8139455e581fddbe0e5083a67a4442781bf42cda7b24efd"
+  },
+  {
+    "local": "assets/actors/boss_borealjuggernaut.png",
+    "source": "https://raw.githubusercontent.com/open-duelyst/duelyst/2843f2400854136598631288c2e8dfb8f5173de7/app/resources/units/boss_borealjuggernaut.png",
+    "bytes": 127499,
+    "sha256": "283f0e28fcb763dc1d2f8d6baf7f12a6bd41808ea2cdb264f2eefc9a9f6bee8e"
+  },
+  {
+    "local": "assets/actors/boss_borealjuggernaut.plist",
+    "source": "https://raw.githubusercontent.com/open-duelyst/duelyst/2843f2400854136598631288c2e8dfb8f5173de7/app/resources/units/boss_borealjuggernaut.plist",
+    "bytes": 31091,
+    "sha256": "59e20d5171766803b78fc9371ee8a84ed113c193172a82dc68c0788825407522"
+  },
+  {
+    "local": "assets/actors/boss_chaosknight.png",
+    "source": "https://raw.githubusercontent.com/open-duelyst/duelyst/2843f2400854136598631288c2e8dfb8f5173de7/app/resources/units/boss_chaosknight.png",
+    "bytes": 201011,
+    "sha256": "5702e0a0cd7d4b631b7d9ffb3a38f18de88289b6fcc1e1c518c915bf06635b1e"
+  },
+  {
+    "local": "assets/actors/boss_chaosknight.plist",
+    "source": "https://raw.githubusercontent.com/open-duelyst/duelyst/2843f2400854136598631288c2e8dfb8f5173de7/app/resources/units/boss_chaosknight.plist",
+    "bytes": 37200,
+    "sha256": "deaf18b915ba75387d9e92bbc86fc350ba749c9440d03673cd1d12a28cbd04f9"
+  },
+  {
+    "local": "assets/licenses/DUELYST-CC0.txt",
+    "source": "https://raw.githubusercontent.com/open-duelyst/duelyst/2843f2400854136598631288c2e8dfb8f5173de7/LICENSE",
+    "bytes": 7048,
+    "sha256": "a2010f343487d3f7618affe54f789f5487602331c0a8d03f49e9a7c547cf0499"
+  },
+  {
+    "local": "assets/environments/verdant-explore.jpg",
+    "source": "https://raw.githubusercontent.com/open-duelyst/duelyst/2843f2400854136598631288c2e8dfb8f5173de7/app/resources/scenes/shimzar/bg.jpg",
+    "bytes": 271510,
+    "sha256": "2187fa7dcae161d0f729cd9cc171f73347392bfed495df60de91da22ca5c6f5f"
+  },
+  {
+    "local": "assets/environments/glacier-explore.jpg",
+    "source": "https://raw.githubusercontent.com/open-duelyst/duelyst/2843f2400854136598631288c2e8dfb8f5173de7/app/resources/scenes/frostfire/background.jpg",
+    "bytes": 318693,
+    "sha256": "8dd119df289c63fb28d0db5de19f84e0b154103d054d0698d308a199a7e51b00"
+  },
+  {
+    "local": "assets/environments/ember-explore.jpg",
+    "source": "https://raw.githubusercontent.com/open-duelyst/duelyst/2843f2400854136598631288c2e8dfb8f5173de7/app/resources/scenes/magaari_ember_highlands/magaari_ember_highlands_background.jpg",
+    "bytes": 342666,
+    "sha256": "51c9dd7ca06323310c47e664dd84ba0d3ae9c4061d53624a7d9af6ff31774e02"
+  },
+  {
+    "local": "assets/environments/void-explore.jpg",
+    "source": "https://raw.githubusercontent.com/open-duelyst/duelyst/2843f2400854136598631288c2e8dfb8f5173de7/app/resources/scenes/obsidian_woods/obsidian_woods_background.jpg",
+    "bytes": 260957,
+    "sha256": "c4d88857134439b7303a478550d900ce410e4b05df79d79279e05511967dfe95"
+  }
+]

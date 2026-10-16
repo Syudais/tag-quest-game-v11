@@ -1,0 +1,381 @@
+{
+  "reviewedOn": "2026-10-15",
+  "actors": [
+    {
+      "actor": "f1_general",
+      "nativeFacing": "right",
+      "impactFrame": null,
+      "imageSha256": "c579d5a5d5d93d7fbdc4a944f6bd4a1af689b06418ec8350476cf128cb9ddf7c",
+      "sampledFrames": {
+        "idle": [
+          "f1_general_idle_000.png",
+          "f1_general_idle_003.png",
+          "f1_general_idle_007.png",
+          "f1_general_idle_010.png"
+        ],
+        "run": [
+          "f1_general_run_000.png",
+          "f1_general_run_002.png",
+          "f1_general_run_005.png",
+          "f1_general_run_007.png"
+        ],
+        "attack": [
+          "f1_general_attack_000.png",
+          "f1_general_attack_007.png",
+          "f1_general_attack_015.png",
+          "f1_general_attack_022.png"
+        ],
+        "cast": [
+          "f1_general_cast_000.png",
+          "f1_general_cast_004.png",
+          "f1_general_cast_008.png",
+          "f1_general_cast_011.png"
+        ],
+        "hit": [
+          "f1_general_hit_000.png",
+          "f1_general_hit_001.png",
+          "f1_general_hit_002.png",
+          "f1_general_hit_002.png"
+        ],
+        "death": [
+          "f1_general_death_000.png",
+          "f1_general_death_004.png",
+          "f1_general_death_008.png",
+          "f1_general_death_011.png"
+        ]
+      },
+      "allAttackFrames": [
+        "f1_general_attack_000.png",
+        "f1_general_attack_001.png",
+        "f1_general_attack_002.png",
+        "f1_general_attack_003.png",
+        "f1_general_attack_004.png",
+        "f1_general_attack_005.png",
+        "f1_general_attack_006.png",
+        "f1_general_attack_007.png",
+        "f1_general_attack_008.png",
+        "f1_general_attack_009.png",
+        "f1_general_attack_010.png",
+        "f1_general_attack_011.png",
+        "f1_general_attack_012.png",
+        "f1_general_attack_013.png",
+        "f1_general_attack_014.png",
+        "f1_general_attack_015.png",
+        "f1_general_attack_016.png",
+        "f1_general_attack_017.png",
+        "f1_general_attack_018.png",
+        "f1_general_attack_019.png",
+        "f1_general_attack_020.png",
+        "f1_general_attack_021.png",
+        "f1_general_attack_022.png"
+      ],
+      "positiveScale": true,
+      "rotatedAtlasFrames": 0
+    },
+    {
+      "actor": "neutral_golemnature",
+      "nativeFacing": "right",
+      "impactFrame": 4,
+      "imageSha256": "46277ff3ca52fed0bfe26eb3345ba44dfe9a8fb16a5e9d24c08a64732c5e4add",
+      "sampledFrames": {
+        "idle": [
+          "neutral_golemnature_idle_000.png",
+          "neutral_golemnature_idle_004.png",
+          "neutral_golemnature_idle_008.png",
+          "neutral_golemnature_idle_011.png"
+        ],
+        "run": [
+          "neutral_golemnature_run_000.png",
+          "neutral_golemnature_run_002.png",
+          "neutral_golemnature_run_005.png",
+          "neutral_golemnature_run_007.png"
+        ],
+        "attack": [
+          "neutral_golemnature_attack_000.png",
+          "neutral_golemnature_attack_002.png",
+          "neutral_golemnature_attack_005.png",
+          "neutral_golemnature_attack_007.png"
+        ],
+        "cast": [
+          "neutral_golemnature_attack_000.png",
+          "neutral_golemnature_attack_002.png",
+          "neutral_golemnature_attack_005.png",
+          "neutral_golemnature_attack_007.png"
+        ],
+        "hit": [
+          "neutral_golemnature_hit_000.png",
+          "neutral_golemnature_hit_001.png",
+          "neutral_golemnature_hit_002.png",
+          "neutral_golemnature_hit_002.png"
+        ],
+        "death": [
+          "neutral_golemnature_death_000.png",
+          "neutral_golemnature_death_003.png",
+          "neutral_golemnature_death_006.png",
+          "neutral_golemnature_death_008.png"
+        ]
+      },
+      "allAttackFrames": [
+        "neutral_golemnature_attack_000.png",
+        "neutral_golemnature_attack_001.png",
+        "neutral_golemnature_attack_002.png",
+        "neutral_golemnature_attack_003.png",
+        "neutral_golemnature_attack_004.png",
+        "neutral_golemnature_attack_005.png",
+        "neutral_golemnature_attack_006.png",
+        "neutral_golemnature_attack_007.png"
+      ],
+      "positiveScale": true,
+      "rotatedAtlasFrames": 0
+    },
+    {
+      "actor": "boss_borealjuggernaut",
+      "nativeFacing": "right",
+      "impactFrame": 12,
+      "imageSha256": "283f0e28fcb763dc1d2f8d6baf7f12a6bd41808ea2cdb264f2eefc9a9f6bee8e",
+      "sampledFrames": {
+        "idle": [
+          "boss_borealjuggernaut_idle_000.png",
+          "boss_borealjuggernaut_idle_005.png",
+          "boss_borealjuggernaut_idle_010.png",
+          "boss_borealjuggernaut_idle_015.png"
+        ],
+        "run": [
+          "boss_borealjuggernaut_run_000.png",
+          "boss_borealjuggernaut_run_002.png",
+          "boss_borealjuggernaut_run_005.png",
+          "boss_borealjuggernaut_run_007.png"
+        ],
+        "attack": [
+          "boss_borealjuggernaut_attack_000.png",
+          "boss_borealjuggernaut_attack_008.png",
+          "boss_borealjuggernaut_attack_017.png",
+          "boss_borealjuggernaut_attack_025.png"
+        ],
+        "cast": [
+          "boss_borealjuggernaut_attack_000.png",
+          "boss_borealjuggernaut_attack_008.png",
+          "boss_borealjuggernaut_attack_017.png",
+          "boss_borealjuggernaut_attack_025.png"
+        ],
+        "hit": [
+          "boss_borealjuggernaut_hit_000.png",
+          "boss_borealjuggernaut_hit_001.png",
+          "boss_borealjuggernaut_hit_002.png",
+          "boss_borealjuggernaut_hit_002.png"
+        ],
+        "death": [
+          "boss_borealjuggernaut_death_000.png",
+          "boss_borealjuggernaut_death_007.png",
+          "boss_borealjuggernaut_death_014.png",
+          "boss_borealjuggernaut_death_020.png"
+        ]
+      },
+      "allAttackFrames": [
+        "boss_borealjuggernaut_attack_000.png",
+        "boss_borealjuggernaut_attack_001.png",
+        "boss_borealjuggernaut_attack_002.png",
+        "boss_borealjuggernaut_attack_003.png",
+        "boss_borealjuggernaut_attack_004.png",
+        "boss_borealjuggernaut_attack_005.png",
+        "boss_borealjuggernaut_attack_006.png",
+        "boss_borealjuggernaut_attack_007.png",
+        "boss_borealjuggernaut_attack_008.png",
+        "boss_borealjuggernaut_attack_009.png",
+        "boss_borealjuggernaut_attack_010.png",
+        "boss_borealjuggernaut_attack_011.png",
+        "boss_borealjuggernaut_attack_012.png",
+        "boss_borealjuggernaut_attack_013.png",
+        "boss_borealjuggernaut_attack_014.png",
+        "boss_borealjuggernaut_attack_015.png",
+        "boss_borealjuggernaut_attack_016.png",
+        "boss_borealjuggernaut_attack_017.png",
+        "boss_borealjuggernaut_attack_018.png",
+        "boss_borealjuggernaut_attack_019.png",
+        "boss_borealjuggernaut_attack_020.png",
+        "boss_borealjuggernaut_attack_021.png",
+        "boss_borealjuggernaut_attack_022.png",
+        "boss_borealjuggernaut_attack_023.png",
+        "boss_borealjuggernaut_attack_024.png",
+        "boss_borealjuggernaut_attack_025.png"
+      ],
+      "positiveScale": true,
+      "rotatedAtlasFrames": 0
+    },
+    {
+      "actor": "boss_cindera",
+      "nativeFacing": "right",
+      "impactFrame": 16,
+      "imageSha256": "d2c9d8f6c9bf38164c52618185020e1bd56ca6d8f43cc6381b85db8add3f1475",
+      "sampledFrames": {
+        "idle": [
+          "boss_cindera_idle_000.png",
+          "boss_cindera_idle_004.png",
+          "boss_cindera_idle_008.png",
+          "boss_cindera_idle_011.png"
+        ],
+        "run": [
+          "boss_cindera_run_000.png",
+          "boss_cindera_run_002.png",
+          "boss_cindera_run_005.png",
+          "boss_cindera_run_007.png"
+        ],
+        "attack": [
+          "boss_cindera_attack_000.png",
+          "boss_cindera_attack_013.png",
+          "boss_cindera_attack_026.png",
+          "boss_cindera_attack_039.png"
+        ],
+        "cast": [
+          "boss_cindera_attack_000.png",
+          "boss_cindera_attack_013.png",
+          "boss_cindera_attack_026.png",
+          "boss_cindera_attack_039.png"
+        ],
+        "hit": [
+          "boss_cindera_hit_000.png",
+          "boss_cindera_hit_001.png",
+          "boss_cindera_hit_002.png",
+          "boss_cindera_hit_002.png"
+        ],
+        "death": [
+          "boss_cindera_death_000.png",
+          "boss_cindera_death_009.png",
+          "boss_cindera_death_018.png",
+          "boss_cindera_death_026.png"
+        ]
+      },
+      "allAttackFrames": [
+        "boss_cindera_attack_000.png",
+        "boss_cindera_attack_001.png",
+        "boss_cindera_attack_002.png",
+        "boss_cindera_attack_003.png",
+        "boss_cindera_attack_004.png",
+        "boss_cindera_attack_005.png",
+        "boss_cindera_attack_006.png",
+        "boss_cindera_attack_007.png",
+        "boss_cindera_attack_008.png",
+        "boss_cindera_attack_009.png",
+        "boss_cindera_attack_010.png",
+        "boss_cindera_attack_011.png",
+        "boss_cindera_attack_012.png",
+        "boss_cindera_attack_013.png",
+        "boss_cindera_attack_014.png",
+        "boss_cindera_attack_015.png",
+        "boss_cindera_attack_016.png",
+        "boss_cindera_attack_017.png",
+        "boss_cindera_attack_018.png",
+        "boss_cindera_attack_019.png",
+        "boss_cindera_attack_020.png",
+        "boss_cindera_attack_021.png",
+        "boss_cindera_attack_022.png",
+        "boss_cindera_attack_023.png",
+        "boss_cindera_attack_024.png",
+        "boss_cindera_attack_025.png",
+        "boss_cindera_attack_026.png",
+        "boss_cindera_attack_027.png",
+        "boss_cindera_attack_028.png",
+        "boss_cindera_attack_029.png",
+        "boss_cindera_attack_030.png",
+        "boss_cindera_attack_031.png",
+        "boss_cindera_attack_032.png",
+        "boss_cindera_attack_033.png",
+        "boss_cindera_attack_034.png",
+        "boss_cindera_attack_035.png",
+        "boss_cindera_attack_036.png",
+        "boss_cindera_attack_037.png",
+        "boss_cindera_attack_038.png",
+        "boss_cindera_attack_039.png"
+      ],
+      "positiveScale": true,
+      "rotatedAtlasFrames": 0
+    },
+    {
+      "actor": "boss_chaosknight",
+      "nativeFacing": "right",
+      "impactFrame": 19,
+      "imageSha256": "5702e0a0cd7d4b631b7d9ffb3a38f18de88289b6fcc1e1c518c915bf06635b1e",
+      "sampledFrames": {
+        "idle": [
+          "boss_chaosknight_idle_000.png",
+          "boss_chaosknight_idle_005.png",
+          "boss_chaosknight_idle_010.png",
+          "boss_chaosknight_idle_015.png"
+        ],
+        "run": [
+          "boss_chaosknight_run_000.png",
+          "boss_chaosknight_run_003.png",
+          "boss_chaosknight_run_006.png",
+          "boss_chaosknight_run_009.png"
+        ],
+        "attack": [
+          "boss_chaosknight_attack_000.png",
+          "boss_chaosknight_attack_013.png",
+          "boss_chaosknight_attack_026.png",
+          "boss_chaosknight_attack_038.png"
+        ],
+        "cast": [
+          "boss_chaosknight_attack_000.png",
+          "boss_chaosknight_attack_013.png",
+          "boss_chaosknight_attack_026.png",
+          "boss_chaosknight_attack_038.png"
+        ],
+        "hit": [
+          "boss_chaosknight_hit_000.png",
+          "boss_chaosknight_hit_001.png",
+          "boss_chaosknight_hit_002.png",
+          "boss_chaosknight_hit_002.png"
+        ],
+        "death": [
+          "boss_chaosknight_death_000.png",
+          "boss_chaosknight_death_008.png",
+          "boss_chaosknight_death_016.png",
+          "boss_chaosknight_death_024.png"
+        ]
+      },
+      "allAttackFrames": [
+        "boss_chaosknight_attack_000.png",
+        "boss_chaosknight_attack_001.png",
+        "boss_chaosknight_attack_002.png",
+        "boss_chaosknight_attack_003.png",
+        "boss_chaosknight_attack_004.png",
+        "boss_chaosknight_attack_005.png",
+        "boss_chaosknight_attack_006.png",
+        "boss_chaosknight_attack_007.png",
+        "boss_chaosknight_attack_008.png",
+        "boss_chaosknight_attack_009.png",
+        "boss_chaosknight_attack_010.png",
+        "boss_chaosknight_attack_011.png",
+        "boss_chaosknight_attack_012.png",
+        "boss_chaosknight_attack_013.png",
+        "boss_chaosknight_attack_014.png",
+        "boss_chaosknight_attack_015.png",
+        "boss_chaosknight_attack_016.png",
+        "boss_chaosknight_attack_017.png",
+        "boss_chaosknight_attack_018.png",
+        "boss_chaosknight_attack_019.png",
+        "boss_chaosknight_attack_020.png",
+        "boss_chaosknight_attack_021.png",
+        "boss_chaosknight_attack_022.png",
+        "boss_chaosknight_attack_023.png",
+        "boss_chaosknight_attack_024.png",
+        "boss_chaosknight_attack_025.png",
+        "boss_chaosknight_attack_026.png",
+        "boss_chaosknight_attack_027.png",
+        "boss_chaosknight_attack_028.png",
+        "boss_chaosknight_attack_029.png",
+        "boss_chaosknight_attack_030.png",
+        "boss_chaosknight_attack_031.png",
+        "boss_chaosknight_attack_032.png",
+        "boss_chaosknight_attack_033.png",
+        "boss_chaosknight_attack_034.png",
+        "boss_chaosknight_attack_035.png",
+        "boss_chaosknight_attack_036.png",
+        "boss_chaosknight_attack_037.png",
+        "boss_chaosknight_attack_038.png"
+      ],
+      "positiveScale": true,
+      "rotatedAtlasFrames": 0
+    }
+  ]
+}

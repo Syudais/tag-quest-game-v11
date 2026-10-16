@@ -1,0 +1,29 @@
+{
+  "name": "tag-quest",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite --host 127.0.0.1",
+    "build": "tsc --noEmit && vite build",
+    "preview": "vite preview --host 127.0.0.1",
+    "test": "vitest run",
+    "lan": "vite preview --host 0.0.0.0 --port 4173 --strictPort"
+  },
+  "dependencies": {
+    "@codemirror/commands": "6.11.1",
+    "@codemirror/lang-html": "^6.4.9",
+    "@codemirror/language": "6.13.1",
+    "@codemirror/state": "^6.5.2",
+    "@codemirror/view": "^6.38.1",
+    "lucide": "^1.57.0",
+    "parse5": "^8.0.0",
+    "phaser": "4.2.1"
+  },
+  "devDependencies": {
+    "@types/node": "24.19.2",
+    "typescript": "^5.9.3",
+    "vite": "8.3.4",
+    "vitest": "5.0.4"
+  }
+}

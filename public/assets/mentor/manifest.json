@@ -1,0 +1,11 @@
+{
+  "portrait": "portrait.png",
+  "spritesheet": "spritesheet.png",
+  "width": 1678,
+  "height": 937,
+  "columns": 9,
+  "rows": 4,
+  "rowOrder": ["walk-right", "walk-left", "front", "back"],
+  "idle": {"row": 2, "column": 0},
+  "source": "User-provided artwork; transparent derivatives prepared with built-in imagegen"
+}
